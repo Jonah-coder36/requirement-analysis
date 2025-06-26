@@ -32,5 +32,5 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used to 
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and the development team.
 - Describe system behavior from a user's point of view.
- ![Use case diagram for the booking system](https://github.com/Jonah-coder36/requirement-analysis/blob/15c3e166af69b28ff4b82786c857aac7c604abcc/alx-booking-uc.png))
+ ![Use case diagram for the booking system](https://github.com/Jonah-coder36/requirement-analysis/blob/15c3e166af69b28ff4b82786c857aac7c604abcc/alx-booking-uc.png)
 

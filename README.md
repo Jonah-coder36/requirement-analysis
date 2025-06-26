@@ -33,4 +33,9 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used to 
 - Facilitate communication among stakeholders and the development team.
 - Describe system behavior from a user's point of view.
  ![Use case diagram for the booking system](https://github.com/Jonah-coder36/requirement-analysis/blob/15c3e166af69b28ff4b82786c857aac7c604abcc/alx-booking-uc.png)
-
+## Acceptance Criteria
+Acceptance Criteria are clearly defined conditions or requirements that a software product must meet to be accepted by stakeholders, especially the client or product owner. In the Requirement Analysis phase, acceptance criteria play a vital role in ensuring the final product aligns with user needs and expectations.
+Acceptance criteria are essential in requirement analysis because they turn vague goals into measurable, testable, and achievable outcomes. They help ensure that the right product is built the right way, meeting both business goals and user needs.
+1 Booking Summary Displayed: The system displays a complete summary of the booking, including date, time, services, and total price.
+2 Payment Options Available: Users can select their preferred payment method.
+3 Confirmation Message: After successful payment, a confirmation message is shown with a unique booking reference number.

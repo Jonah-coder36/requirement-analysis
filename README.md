@@ -36,6 +36,6 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used to 
 ## Acceptance Criteria
 Acceptance Criteria are clearly defined conditions or requirements that a software product must meet to be accepted by stakeholders, especially the client or product owner. In the Requirement Analysis phase, acceptance criteria play a vital role in ensuring the final product aligns with user needs and expectations.
 Acceptance criteria are essential in requirement analysis because they turn vague goals into measurable, testable, and achievable outcomes. They help ensure that the right product is built the right way, meeting both business goals and user needs.
-1 Booking Summary Displayed: The system displays a complete summary of the booking, including date, time, services, and total price.
-2 Payment Options Available: Users can select their preferred payment method.
-3 Confirmation Message: After successful payment, a confirmation message is shown with a unique booking reference number.
+1. Booking Summary Displayed: The system displays a complete summary of the booking, including date, time, services, and total price.
+2. Payment Options Available: Users can select their preferred payment method.
+3. Confirmation Message: After successful payment, a confirmation message is shown with a unique booking reference number.

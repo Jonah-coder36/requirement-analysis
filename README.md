@@ -7,21 +7,21 @@ Requirement Analysis is a fundamental phase in the Software Development Life Cyc
 Requirement analysis is a collaborative, strategic process that defines the success or failure of a software project. A well-executed requirement analysis phase ensures that the development team builds the right system for the right users, in the right way. It minimizes risk, enhances clarity, and lays the groundwork for delivering valuable and usable software.
 Requirement Analysis plays a critical role in the Software Development Lifecycle (SDLC). It serves as the foundation upon which all other stages, such as design, development, testing, and deployment, are built. Without clear, accurate, and complete requirements, the project is at risk of failure due to misaligned expectations, delays, or cost overruns.
 Requirement analysis is the cornerstone of successful software development. It ensures that every stage of the SDLC is grounded in a solid understanding of what the system is supposed to achieve. Investing time and effort in this phase greatly increases the chances of delivering software that is on time, within budget, and fully aligned with user expectations.
-# Why is Requirement Analysis Important?
+## Why is Requirement Analysis Important?
 1. Defines Clear Project Scope: Requirement analysis sets boundaries for the project by clearly defining what the software will do and what it won’t do. This helps prevent scope creep, where uncontrolled changes or continuous growth in a project's scope can derail timelines and budgets.
 2. Ensures Alignment with Business Goals: It ensures that the software solution is designed to solve the right problems and supports the business objectives of stakeholders. It translates business needs into technical solutions.
 3. Provides a Basis for Planning and Estimation: With clearly defined requirements, project managers can create accurate estimates for time, cost, resources, and effort. This helps in building realistic schedules and budgets.
 4. Improves Communication Between Stakeholders: Requirements analysis bridges the gap between non-technical stakeholders (e.g., clients or end-users) and the technical team. It ensures that all parties have a shared understanding of what is being built.
-# Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis
 - Requirement Gathering: Requirement Gathering involves systematically collecting the needs, expectations, goals, and constraints of stakeholders for a new or modified software system. It determines the direction and success of the entire software project.
 - Requirement Elicitation: Requirement Elicitation is the process of discovering, uncovering, and extracting requirements from stakeholders, users, and other sources. Requirement elicitation is a critical and interactive part of requirement analysis that ensures you discover not just what users say they want, but what they need.
 - Requirement Documentation: Requirement Documentation is the process of formally recording the software requirements gathered and elicited from stakeholders during the requirement analysis phase of the Software Development Life Cycle (SDLC). 
 - Requirement Analysis and Modeling: Requirement analysis focuses on understanding and refining stakeholder needs, and modeling involves representing those requirements visually or structurally to ensure better clarity, communication, and system design.
 - Requirement Validation: Its main purpose is to ensure that the documented requirements accurately represent the needs, expectations, and constraints of all stakeholders, and that they are ready to be used in the design and development phases of the Software Development Life Cycle (SDLC).
-# Types of Requirements
-## Functional Requirements: 
+## Types of Requirements
+### Functional Requirements: 
 Describe what the hotel booking apps should do.
 Example: User authentication, property search, booking system, and user registration.
-## Non-functional Requirements: 
+### Non-functional Requirements: 
 Describe how the hotel booking apps should perform.
 Example: Performance, security, scalability, usability, reliability.

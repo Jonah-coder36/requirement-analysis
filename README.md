@@ -19,7 +19,9 @@ Requirement analysis is the cornerstone of successful software development. It e
 - Requirement Analysis and Modeling: Requirement analysis focuses on understanding and refining stakeholder needs, and modeling involves representing those requirements visually or structurally to ensure better clarity, communication, and system design.
 - Requirement Validation: Its main purpose is to ensure that the documented requirements accurately represent the needs, expectations, and constraints of all stakeholders, and that they are ready to be used in the design and development phases of the Software Development Life Cycle (SDLC).
 # Types of Requirements
-## Functional Requirements: Describe what the hotel booking apps should do.
- Example: User authentication, property search, booking system, and user registration.
-## Non-functional Requirements: Describe how the hotel booking apps should perform.
+## Functional Requirements: 
+Describe what the hotel booking apps should do.
+Example: User authentication, property search, booking system, and user registration.
+## Non-functional Requirements: 
+Describe how the hotel booking apps should perform.
 Example: Performance, security, scalability, usability, reliability.
